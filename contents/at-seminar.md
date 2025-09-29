@@ -1,8 +1,12 @@
 # 讲义
-- [0. 代数拓扑简介 PDF](/static/pdfs/0.intro-to-algebraic-topology.pdf)
-- [1.1 模，范畴 PDF](/static/pdfs/1.1-modules-categories.pdf)
-- [1.2 同调群的定义以及基本性质 PDF](/static/pdfs/1.2-homology-groups.pdf)
-
+- [0 Introduction ](/static/pdfs/0.intro-to-algebraic-topology.pdf)
+- [1.1 Module,Category ](/static/pdfs/1.1-modules-categories.pdf)
+- [1.2 Definition of homology ](/static/pdfs/1.2-homology-groups.pdf)
+- [2 Relative homology,Excision,M-V sequence]
+- [3 Homology of CW complex]
+- [4 Homology with coeffecient]
+- [5 Elienberg-Zilber theorem,Kunneth formula]
+- [6 Definition of cohomology,Product in cohomology]
 # 参考文献
 - [Haynes Miller - Lectures on Algebraic Topology](/static/pdfs/AT%20Miller.pdf)
 - [Allen Hatcher - Algebraic Topology PDF](/static/pdfs/AT%20hatcher.pdf)
