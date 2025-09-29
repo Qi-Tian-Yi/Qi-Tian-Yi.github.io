@@ -5,10 +5,10 @@
 
 # 参考文献
 - [Haynes Miller - Lectures on Algebraic Topology](/static/pdfs/AT%20Miller.pdf)
-- [Allen Hatcher - Algebraic Topology PDF](/static/pdfs/AT hatcher.pdf)
+- [Allen Hatcher - Algebraic Topology PDF](/static/pdfs/AT%20hatcher.pdf)
 - [John M. Lee - Introduction to Topological Manifolds PDF](/static/pdfs/TM%20Lee.pdf)
-- [Anant R. Shastri - Basic Algebraic Topology PDF](/static/pdfs/AT Shastri.pdf)
-- [李思 - 代数拓扑 PDF](/static/pdfs/AT 李思.pdf)
+- [Anant R. Shastri - Basic Algebraic Topology PDF](/static/pdfs/AT%20Shastri.pdf)
+- [李思 - 代数拓扑 PDF](/static/pdfs/AT%20李思.pdf)
 - [John Milnor - Characteristic Classes PDF](/static/pdfs/characteristic-classes.pdf)
-- [John M. Lee - Introduction to Topological Manifolds PDF](/static/pdfs/TM Lee.pdf)
-- [Christian Bar - Gauge Theory  PDF](/static/pdfs/Gauge theory Bar.pdf)
+- [John M. Lee - Introduction to Topological Manifolds PDF](/static/pdfs/TM%20Lee.pdf)
+- [Christian Bar - Gauge Theory  PDF](/static/pdfs/Gauge%20theory%20Bar.pdf)
