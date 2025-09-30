@@ -5,7 +5,7 @@
 - [2 Relative homology,Excision,M-V sequence]
 - [3 Homology of CW complex]
 - [4 Homology with coeffecient]
-- [5 Elienberg-Zilber theorem,K\"{u}nneth formula]
+- [5 Elienberg-Zilber theorem,Kunneth formula]
 - [6 Definition of cohomology,Product in cohomology]
 # 参考文献
 - [Haynes Miller - Lectures on Algebraic Topology](/static/pdfs/AT%20Miller.pdf)
