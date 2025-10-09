@@ -1,12 +1,14 @@
 # 讲义
 - [0 Introduction ](/static/pdfs/0.intro-to-algebraic-topology.pdf)
 - [1.1 Module,Category ](/static/pdfs/1.1-modules-categories.pdf)
-- [1.2 Definition of homology ](/static/pdfs/1.2-homology-groups.pdf)
-- [2 Relative homology,Excision,M-V sequence]
-- [3 Homology of CW complex]
-- [4 Homology with coeffecient]
-- [5 Elienberg-Zilber theorem,Kunneth formula]
-- [6 Definition of cohomology,Product in cohomology]
+- [1.2 Definition of Homology ](/static/pdfs/1.2-homology-groups.pdf)
+- [2.1 Homotopy Invariance](/static/pdfs/2.1%20homotopy%20invariance.pdf)
+- [2.2 Relative Homology](/static/pdfs/2.2%20relative%20homology.pdf)
+- [3 Excision and M-V Sequence]
+- [4 Homology of CW Complex]
+- [5 Homology with coeffecient]
+- [6 Elienberg-Zilber theorem,Kunneth formula]
+
 # 参考文献
 - [Haynes Miller - Lectures on Algebraic Topology](/static/pdfs/AT%20Miller.pdf)
 - [Allen Hatcher - Algebraic Topology PDF](/static/pdfs/AT%20hatcher.pdf)
