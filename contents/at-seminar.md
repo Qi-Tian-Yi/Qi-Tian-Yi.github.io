@@ -6,8 +6,12 @@
 - [2.2 Relative Homology](/static/pdfs/2.2%20relative%20homology.pdf)
 - [3 Excision and M-V Sequence](/static/pdfs/3.Relative%20Homology,Excision&M-V.pdf)
 - [4 Homology of CW Complex]
-- [5 Homology with coeffecient]
-- [6 Elienberg-Zilber theorem,Kunneth formula]
+- [5 Direct Limit]
+- [6 Homology with coeffecient]
+- [7 Elienberg-Zilber theorem,Kunneth formula]
+- [8 Cohomology]
+- [9 Orientation]
+- [10 Duality]
 
 # 参考文献
 - [Haynes Miller - Lectures on Algebraic Topology](/static/pdfs/AT%20Miller.pdf)
