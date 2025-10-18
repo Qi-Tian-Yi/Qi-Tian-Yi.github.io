@@ -4,7 +4,7 @@
 - [1.2 Definition of Homology ](/static/pdfs/1.2-homology-groups.pdf)
 - [2.1 Homotopy Invariance](/static/pdfs/2.1%20homotopy%20invariance.pdf)
 - [2.2 Relative Homology](/static/pdfs/2.2%20relative%20homology.pdf)
-- [3 Excision and M-V Sequence]
+- [3 Excision and M-V Sequence](/static/pdfs/3.Relative%20Homology,Excision&M-V.pdf)
 - [4 Homology of CW Complex]
 - [5 Homology with coeffecient]
 - [6 Elienberg-Zilber theorem,Kunneth formula]
